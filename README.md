@@ -7,8 +7,8 @@ I also learn Python and Flutter in my free time.
 I would like to become a mobile-dev📱
 
 Hobbies:
-Vector graphics🖱
-After Effects animations✨
-Video-editing🎞
+- Vector graphics🖱
+- After Effects animations✨
+- Video-editing🎞
 
 After high school i am planning to go to university
